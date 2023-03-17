@@ -1,0 +1,27 @@
+.banner{
+    background-image: url("../img/superman.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding: 25%;
+    position: relative;
+    z-index: 1;
+}
+.logo{
+ width: 5%;
+ height: 5%;
+}
+.nombr{
+    background-color: black;
+    color: white;
+}
+.historia{
+    font-size: 25px;
+   
+}
+.container{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: black;
+}
